@@ -9,10 +9,10 @@
 ### **Chapter I: Efficient Inference**
 
 ### **Lecture 3: Pruning and Sparsity (Part I)**  
-- [ ] Video  
+- [x] Video  
 
 ### **Lecture 4: Pruning and Sparsity (Part II)**  
-- [ ] Video  
+- [x] Video  
 - [ ] Lab 1 out
 
 ### **Lecture 5: Quantization (Part I)**  
