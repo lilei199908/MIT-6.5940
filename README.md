@@ -13,11 +13,11 @@
 
 ### **Lecture 4: Pruning and Sparsity (Part II)**  
 - [x] Video  
-- [ ] Lab 1 out
+- [x] Lab 1 out
 
 ### **Lecture 5: Quantization (Part I)**  
-- [ ] Video  
-- [ ] Lab 0 due
+- [x] Video  
+- [x] Lab 0 due
 
 ### **Lecture 6: Quantization (Part II)**  
 - [ ] Video  
