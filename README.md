@@ -24,7 +24,7 @@
 
 ### **Lecture 7: Neural Architecture Search (Part I)**  
 - [x] Video  
-- [ ] Lab 1 due, Lab 2 out
+- [x] Lab 1 due, Lab 2 out
 
 ### **Lecture 8: Neural Architecture Search (Part II)**  
 - [x] Video  
