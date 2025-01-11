@@ -20,14 +20,14 @@
 - [x] Lab 0 due
 
 ### **Lecture 6: Quantization (Part II)**  
-- [ ] Video  
+- [x] Video  
 
 ### **Lecture 7: Neural Architecture Search (Part I)**  
-- [ ] Video  
+- [x] Video  
 - [ ] Lab 1 due, Lab 2 out
 
 ### **Lecture 8: Neural Architecture Search (Part II)**  
-- [ ] Video  
+- [x] Video  
 
 ### **Lecture 9: Knowledge Distillation**  
 - [ ] Video  
