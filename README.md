@@ -30,14 +30,14 @@
 - [x] Video  
 
 ### **Lecture 9: Knowledge Distillation**  
-- [ ] Video  
+- [x] Video  
 
 ### **Lecture 10: MCUNet: TinyML on Microcontrollers**  
-- [ ] Video  
-- [ ] Lab 2 due, Lab 3 out
+- [x] Video  
+- [x] Lab 2 due, Lab 3 out
 
 ### **Lecture 11: TinyEngine and Parallel Processing**  
-- [ ] Video  
+- [x] Video  
 
 ### **Student Holiday — No Class**
 

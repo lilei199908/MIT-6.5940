@@ -1,1 +1,12 @@
 vgg.cifar.pretrained.pth
+data/
+acc_datasets/
+assets/
+mcunet/
+mcunetv2-dev-main/
+*.py
+requirements.txt
+pretrained/
+viz/
+wget-log
+vww_supernet.pth
