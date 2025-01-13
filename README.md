@@ -44,18 +44,18 @@
 ### **Chapter II: Domain-Specific Optimization**
 
 ### **Lecture 12: Transformer and LLM**  
-- [ ] Video  
+- [x] Video  
 
 ### **Lecture 13: Efficient LLM Deployment**  
-- [ ] Video  
-- [ ] Lab 3 due, Lab 4 out
+- [x] Video (need learn more times)
+- [x] Lab 3 due, Lab 4 out(copy one line, watch clamp to no zero)
 
 ### **Lecture 14: LLM Post Training**  
-- [ ] Video  
-- [ ] Project ideas out
+- [x] Video  
+- [x] Project ideas out
 
 ### **Lecture 15: Long Context LLM**  
-- [ ] Video  
+- [x] Video  
 
 ### **Lecture 16: Vision Transformer**  
 - [ ] Video  
