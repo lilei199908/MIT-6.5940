@@ -58,8 +58,34 @@
 - [x] Video  
 
 ### **Lecture 16: Vision Transformer**  
-- [ ] Video  
-- [ ] Lab 4 due, Lab 5 out
+- [x] Video  
+- [x] Lab 4 due, Lab 5 out
+
+-------- Sanity check of reference implementation: Passed! -------- 
+Section, Total time(ms), Average time(ms), Count, GOPs
+reference, 1737.512939, 173.751007, 10, 1.508731
+
+-------- Sanity check of loop_unrolling implementation: Passed! -------- 
+Section, Total time(ms), Average time(ms), Count, GOPs
+loop_unrolling, 1866.032959, 186.602997, 10, 1.404820
+
+-------- Sanity check of multithreading implementation: Passed! -------- 
+Section, Total time(ms), Average time(ms), Count, GOPs
+multithreading, 515.291992, 51.528999, 10, 5.087291
+
+-------- Sanity check of simd_programming implementation: Passed! -------- 
+Section, Total time(ms), Average time(ms), Count, GOPs
+simd_programming, 699.747009, 69.973999, 10, 3.746268
+
+-------- Sanity check of multithreading_loop_unrolling implementation: Passed! -------- 
+Section, Total time(ms), Average time(ms), Count, GOPs
+multithreading_loop_unrolling, 516.218018, 51.620998, 10, 5.078165
+
+-------- Sanity check of all_techniques implementation: Passed! -------- 
+Section, Total time(ms), Average time(ms), Count, GOPs
+all_techniques, 134.244003, 13.424000, 10, 19.527428
+
+All tests completed!
 
 ### **Lecture 17: GAN, Video, and Point Cloud**  
 - [ ] Video  
