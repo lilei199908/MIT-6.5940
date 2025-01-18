@@ -88,10 +88,10 @@ all_techniques, 134.244003, 13.424000, 10, 19.527428
 All tests completed!
 
 ### **Lecture 17: GAN, Video, and Point Cloud**  
-- [ ] Video  
+- [x] Video  
 
 ### **Lecture 18: Diffusion Model**  
-- [ ] Video  
+- [x] Video  
 
 ### **Chapter III: Efficient Training**
 
