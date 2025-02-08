@@ -96,15 +96,15 @@ All tests completed!
 ### **Chapter III: Efficient Training**
 
 ### **Lecture 19: Distributed Training (Part I)**  
-- [ ] Video  
-- [ ] Lab 5 due
+- [x] Video  
+- [x] Lab 5 due
 
 ### **Lecture 20: Distributed Training (Part II)**  
-- [ ] Video  
-- [ ] Project proposal due
+- [x] Video  
+- [x] Project proposal due
 
 ### **Lecture 21: On-Device Training and Transfer Learning**  
-- [ ] Video  
+- [x] Video  
 
 ### **Chapter IV: Advanced Topics**
 
